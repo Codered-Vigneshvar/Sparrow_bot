@@ -9,7 +9,7 @@ import time
 
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = #paste your super key here
 
 
 # Function to listen to user's speech for a maximum of 20 seconds
